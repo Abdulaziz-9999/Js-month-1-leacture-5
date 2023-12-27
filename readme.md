@@ -40,3 +40,41 @@ A string representing the elements of the array.
 ![](./Includes.jpg)
 # JavaScript array methods Slice
 ![](./Slice.jpg)
+# JavaScript array method map
+> The map() method is an iterative method. It calls a provided callbackFn function once for each element in an array and constructs a new array 
+![](./map().jpg)
+# JavaScript array method foreach()
+>The forEach() method is an iterative method. It calls a provided callbackFn function once for each element in an array in ascending-index order. Unlike map() , forEach() always returns undefined and is not chainable. The typical use case is to execute side effects at the end of a chain.
+![](./JavaScript%20array%20method%20foreach().jpg)
+# JavaScript array method find()
+>The find() method returns the value of the first element that passes a test. The find() method executes a function for each array element. The find() method returns undefined if no elements are found. The find() method does not execute the function for empty elements.
+![](./find().jpg)
+# Method reduce 
+>The reduce() method executes a user-supplied "reducer" callback function on each element
+of the array, in order, passing in the return value from the calculation on the preceding
+element. The final result of running the reducer across all elements of the array is a single
+value.
+![](./reduse.jpg)
+# Method filter
+>The filter() method creates a shallow copy of a portion of a given array, filtered down to
+just the elements from the given array that pass the test implemented by the provided
+function. 
+![](./The%20filter().jpg)
+# Method Destructuring
+>The toSorted() method of Array instances is the copying version of the sort() method. 
+It returns a new array with the elements sorted in ascending order.
+![](./Method%20Destructuring.png)
+# Method spread
+>The spread (...) syntax allows an iterable, such as an array or string, to be
+expanded in places where zero or more arguments (for function calls) or
+elements (for array literals) are expected. In an object literal, the spread syntax
+enumerates the properties of an object and adds the key-value pairs to the object
+being created.
+![](./Method%20spread.jpg)
+# Method rest
+> The rest parameter syntax allows a function to accept an indefinite 
+number of arguments as an array.
+![](./The%20rest.jpg)
+#
+# Thank you for watching !
+![](./TTT.jpg)
